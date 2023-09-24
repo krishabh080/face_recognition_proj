@@ -30,6 +30,8 @@ This program follows a sequential flow to achieve facial recognition using Pytho
 
 By following these steps, you can build a powerful facial recognition system to match faces efficiently and accurately.
 
+## check out my blog for more descriptive guidance:
+https://medium.com/@krishabh080/build-facial-recognition-with-python-opencv-openai-clip-and-pgvector-372caf8b8693
 ---
 
 
